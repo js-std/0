@@ -1,15 +1,15 @@
-js-std
-======
+Coding standard 0
+=================
 
 PROPOSAL!
 
 Coding standard js-std are style guidelines for programming in JavaScript.
 
-This document is the 4 May 2017.
+Document 2017-05-04T14:16:13Z
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
 "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL"
-in this document are to be interpreted as described in RFC 2119.
+in this document are to be interpreted as described in [RFC 2119][RFC 2119].
 
 [RFC 2119]: http://www.ietf.org/rfc/rfc2119.txt
 
@@ -20,10 +20,9 @@ in this document are to be interpreted as described in RFC 2119.
 - Property names "camelCase" (SHOULD).
 - Method names "camelCase" (SHOULD).
 - Constans names "UPPER_CASE" with underscore separators (SHOULD).
-- Hard limit for line length: 120 characters, soft limit 80 characters (SHOULD).
+- Soft limit for line length: 80 characters, hard limit: 120 characters (SHOULD).
 - UTF-8 without BOM for JavaScript code (SHOULD).
 
-Minimal picktime 2018-01-01
+Minimal picktime 2018-01-01.
 
-Edited by Pluma (text editor).
-
+Edited by Pluma (minimal text editor).
