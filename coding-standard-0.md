@@ -21,7 +21,7 @@ in this document are to be interpreted as described in [RFC 2119][RFC 2119].
 - Method names "camelCase" (SHOULD).
 - Constans names "UPPER_CASE" with underscore separators (SHOULD).
 - Soft limit for line length: 80 characters, hard limit: 120 characters (SHOULD).
-- UTF-8 without BOM for JavaScript code (SHOULD).
+- Encoding UTF-8 without BOM (SHOULD).
 
 Example class:
 
