@@ -7,7 +7,7 @@ Coding standard js-std are style guidelines for programming in JavaScript.
 
 Document 2017-05-04T14:16:13Z
 
-The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+Key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
 "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL"
 in this document are to be interpreted as described in [RFC 2119][RFC 2119].
 
