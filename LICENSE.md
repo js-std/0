@@ -1,1 +1,1 @@
-Totaly free.
+Totally free.
