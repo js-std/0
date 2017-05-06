@@ -5,7 +5,8 @@ PROPOSAL!
 
 Coding standard js-std are style guidelines for programming in JavaScript.
 
-Document 2017-05-04T14:50:13Z
+Document 2017-05-06T07:51:13Z
+Minimal picktime 2018-01-01
 
 Key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
 "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL"
@@ -21,7 +22,7 @@ in this document are to be interpreted as described in [RFC 2119][RFC 2119].
 - Method names "camelCase" (SHOULD).
 - Constans names "UPPER_CASE" with underscore separators (SHOULD).
 - Soft limit for line length: 80 characters, hard limit: 120 characters (SHOULD).
-- Encoding UTF-8 without BOM (SHOULD).
+- Encoding UTF-8 (MAY) (!?).
 
 Example class:
 
@@ -44,7 +45,5 @@ Example class:
 
         // ...
     }
-
-Minimal picktime 2018-01-01.
 
 Edited by Pluma (minimal text editor).
