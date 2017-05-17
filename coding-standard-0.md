@@ -5,7 +5,7 @@ PROPOSAL (ALPHA)!
 
 Coding standard js-std are style guidelines for programming in JavaScript.
 
-Document 2017-05-07T19:49:13Z
+Document 2017-05-17T19:49:13Z
 
 Minimal picktime 2018-01-01
 
