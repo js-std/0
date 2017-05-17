@@ -1,7 +1,7 @@
 Coding standard 0
 =================
 
-PROPOSAL!
+PROPOSAL (ALPHA)!
 
 Coding standard js-std are style guidelines for programming in JavaScript.
 
