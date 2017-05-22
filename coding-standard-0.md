@@ -5,7 +5,7 @@ PROPOSAL (ALPHA)!
 
 Coding standard js-std are style guidelines for programming in JavaScript.
 
-Document 2017-05-17T19:49:13Z
+Document 2017-05-22T13:39:13Z
 
 Minimal picktime 2018-01-01
 
@@ -15,7 +15,7 @@ in this document are to be interpreted as described in [RFC 2119][RFC 2119].
 
 [RFC 2119]: http://www.ietf.org/rfc/rfc2119.txt
 
-- Always compatibile with prev major version (MUST).
+- Backward compatibility based on "Semantic versioning 2.0.0"
 - Without semicolons (SHOULD).
 - 4 spaces for indenting code (SHOULD).
 - Class names "StudlyCaps" (SHOULD).
