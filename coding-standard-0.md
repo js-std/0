@@ -3,9 +3,9 @@ Coding standard 0
 
 PROPOSAL (ALPHA)!
 
-Coding standard js-std are style guidelines for programming in JavaScript.
+Coding standard js-std are style guidelines for programming in Javascript.
 
-Document 2017-05-22T13:39:13Z
+Document 2017-06-05T22:14:13Z
 
 Minimal picktime 2018-01-01
 
